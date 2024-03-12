@@ -1,3 +1,4 @@
 # created by virtualenv automaticall
-venv/
+venv/Lib
 .idea/
+venv/
