@@ -1,2 +1,0 @@
-number = int(input("Input number : "))
-print(number - 3)
