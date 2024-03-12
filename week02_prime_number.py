@@ -10,7 +10,7 @@ else:
             #is_primenumber = is_prime_number + 1
             is_prime_number = False  #Remove the plus operation
             break  #Exit the loop when the first divisor is found.
-        print(1, end=" ")
+        print(i, end=" ")
 
 #if is_prime_number == 0:
 if is_prime_number:
