@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 # created by virtualenv automatically
 venv/Lib
 .idea/
 venv/
+=======
+# created by virtualenv automaticall
+.idea/
+venv/
+venv
+>>>>>>> 02a49a1991f41275ebbc1d5f66dc6e916af1713f
