@@ -54,6 +54,7 @@ for i in range(len(beverage)):
     if quantity[i] != 0:
         print(f"{beverage[i]}\n\t{prices[i]}\tx{quantity[i]}\t{prices[i] * quantity[i]}")
 
+
 print(f"The total amount is {total_price} won.")
 =======
         print("you ordered Americano coffe. The price is 1,500 won.")
